@@ -24,7 +24,7 @@ def multiplication(num1, num2)
 end
 
 def modulo(num1, num2)
-  remainder = 34 % 5 
+  remainder = 34 % 5
   puts remainder
   remainder
 end
