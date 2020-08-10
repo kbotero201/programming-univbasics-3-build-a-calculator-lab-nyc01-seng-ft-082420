@@ -4,7 +4,6 @@ puts sum
 sum
 end
 
-def addition(5, 4)
 
 def subtraction(num1, num2)
   sum = num2 - num1
